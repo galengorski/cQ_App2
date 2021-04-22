@@ -1,0 +1,5 @@
+"agency_cd","site_no","station_nm","site_tp_cd","dec_lat_va","dec_long_va","coord_acy_cd","dec_coord_datum_cd","alt_va","alt_acy_va","alt_datum_cd","huc_cd","data_type_cd","parm_cd","stat_cd","ts_id","loc_web_ds","medium_grp_cd","parm_grp_cd","srs_id","access_cd","begin_date","end_date","count_nu"
+"USGS","05482300","North Raccoon River near Sac City, IA","ST",42.35475,-94.9903333,"S","NAD83"," 1146.03",0.01,"NGVD29","07100006","dv","00010","00003",43064,NA,"wat",NA,1645597,0,2012-03-13,2020-04-30,2790
+"USGS","05482300","North Raccoon River near Sac City, IA","ST",42.35475,-94.9903333,"S","NAD83"," 1146.03",0.01,"NGVD29","07100006","dv","00060","00003",43062,NA,"wat",NA,1645423,0,1958-06-01,2020-04-30,22615
+"USGS","05482300","North Raccoon River near Sac City, IA","ST",42.35475,-94.9903333,"S","NAD83"," 1146.03",0.01,"NGVD29","07100006","dv","83554","00003",227138,NA,"wat",NA,701177,0,2008-03-27,2020-05-01,3359
+"USGS","05482300","North Raccoon River near Sac City, IA","ST",42.35475,-94.9903333,"S","NAD83"," 1146.03",0.01,"NGVD29","07100006","dv","99133","00003",43063,NA,"wat",NA,701177,0,2008-03-27,2020-05-01,3770
